@@ -8,10 +8,11 @@ h1 {
 }
 
 h2 {
+    color: #ff0000;
     font-weight: bold;
     font-size: 30px;
     text-decoration: underline;
-    color: #ff0000;
+    
 }
 
 p {
